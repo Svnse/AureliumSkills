@@ -1,3 +1,4 @@
+THIS IS NOT CREATED BY ME: IT IS CREATED BY Archy#2011 | ALL CREDITS GO TO ARCHY
 # Aurelium Skills
 
 AureliumSkills is an advanced, feature-rich skills, stats, and abilities plugin, great for a variety of server gamemodes.
